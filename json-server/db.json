@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "views": 202,
+      "id": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+   "students" : [
+    {
+      "_id": "661cdc024bebbf0dc6aa7a8c",
+      "index": 0,
+      "guid": "3897efa8-9fab-47b5-b060-eea7bc9b08fa",
+      "age": 28,
+      "name": "Lacy Rush",
+      "gender": "female",
+      "company": "DANCITY",
+      "email": "lacyrush@dancity.com",
+      "phone": "+1 (994) 467-3355"
+    },
+    {
+      "_id": "661cdc02fd6a88c36648f625",
+      "index": 1,
+      "guid": "7a15513c-43ae-4ffa-9693-9b9851ecb888",
+      "age": 29,
+      "name": "Kari Miller",
+      "gender": "female",
+      "company": "MAZUDA",
+      "email": "karimiller@mazuda.com",
+      "phone": "+1 (848) 576-3384"
+    },
+    {
+      "_id": "661cdc02f19f56ad04186372",
+      "index": 2,
+      "guid": "ef41da71-cf6c-4522-bfb2-087f4445f3dd",
+      "age": 20,
+      "name": "Bridget Peck",
+      "gender": "female",
+      "company": "GLEAMINK",
+      "email": "bridgetpeck@gleamink.com",
+      "phone": "+1 (823) 544-3662"
+    },
+    {
+      "_id": "661cdc02f8057a808d783c35",
+      "index": 3,
+      "guid": "5af1076e-1e06-4133-b695-6af388e34fe7",
+      "age": 30,
+      "name": "Haynes Farrell",
+      "gender": "male",
+      "company": "REMOTION",
+      "email": "haynesfarrell@remotion.com",
+      "phone": "+1 (823) 535-2092"
+    }
+  ]
+  
+}
